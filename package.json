@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oonne/gulp-asset-version.git"
+    "url": "git+https://github.com/oonne/gulp-asset-version.git"
   },
   "author": "JAY",
   "engines": {
@@ -29,10 +29,13 @@
     "url": "https://github.com/oonne/gulp-asset-version/issues"
   },
   "maintainers": [
-    {
-      "name": "JAY",
-      "email": "JAY@oonne.com"
-    }
+    "JAY <JAY@oonne.com>"
   ],
-  "directories": {}
+  "directories": {
+    "test": "test"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
