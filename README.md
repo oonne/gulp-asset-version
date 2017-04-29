@@ -31,8 +31,8 @@ gulp.task('html',function() {
 
 ## Options
 
-### rootPath: it should be assigned when the asset's path is an absolute path
-Type: `String` default: ""
+### rootPath: it should be assigned when the asset's path is an absolute path.
+Type: `String` Default: ""
 
 ## Example
 
