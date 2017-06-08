@@ -1,6 +1,6 @@
 # gulp-asset-version
 
-a plugin for gulp.js to add version after file's name by content hash.
+A plugin for gulp.js to add version after file's name by content hash.
 ### `test.html` -> `test.html?v=7f499bc7`
 ### `test.css` -> `test.css?v=f83a98d9`
 
